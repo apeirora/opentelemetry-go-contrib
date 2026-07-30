@@ -6,6 +6,7 @@
 [![Go Report Card](https://goreportcard.com/badge/go.opentelemetry.io/contrib)](https://goreportcard.com/report/go.opentelemetry.io/contrib)
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/opentelemetry-go-contrib.svg)](https://issues.oss-fuzz.com/issues?q=project:opentelemetry-go-contrib)
 [![Slack](https://img.shields.io/badge/slack-@cncf/otel--go-brightgreen.svg?logo=slack)](https://cloud-native.slack.com/archives/C01NPAXACKT)
+[![REUSE status](https://api.reuse.software/badge/github.com/apeirora/opentelemetry-go-contrib)](https://api.reuse.software/info/github.com/apeirora/opentelemetry-go-contrib)
 
 Collection of 3rd-party packages for [OpenTelemetry-Go](https://github.com/open-telemetry/opentelemetry-go).
 
